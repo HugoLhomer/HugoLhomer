@@ -17,7 +17,7 @@
 💼 J'ai contribué, en deux semaines et dans une équipe de 3 développeurs, au développement d'un site Web innovant. Notre projet visait à scrapper des données de plusieurs sites majeurs pour offrir des solutions d'emailing et de phoning aux entreprises à la recherche de prospects. Mes responsabilités incluaient la conception, le développement et l'intégration de fonctionnalités. Cette expérience a renforcé mes compétences en programmation et en gestion de projet.
 
 ## Opportunités
-🔍 À la recherche d'un poste peu importe où France dans les domaines du développement front-end, back-end et full-stack.
+🔍 À la recherche d'un poste peu importe où en France dans les domaines du développement front-end, back-end et full-stack.
 
 ## Contact
 ✉️ Contactez-moi pour discuter de collaborations ou d'opportunités professionnelles :
