@@ -6,9 +6,9 @@
 📚 Toujours prêt à explorer de nouveaux langages et frameworks !
 
 ## Ma stack technique actuelle :
-- **Langages**: Ruby, JavaScript
-- **Frameworks**: Ruby on Rails, Stimulus.js, Vue.js, React.js, Node.js
-- **Web**: HTML, CSS, SCSS
+- **Langages**: JavaScript, Ruby
+- **Frameworks**: React.js, Node.js, Vue.js, Ruby on Rails, Stimulus.js
+- **Web**: HTML, CSS, SCSS, BOOTSTRAP
 - **Base de données**: SQL
 - **Outils**: Git
 - **Déploiement**: Heroku
