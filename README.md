@@ -12,6 +12,7 @@
 - **Base de données**: SQL
 - **Outils**: Git
 - **Déploiement**: Heroku
+- **Design**: Figma
 
 ## Expérience
 💼 J'ai contribué, en deux semaines et dans une équipe de 3 développeurs, au développement d'un site Web innovant. Notre projet visait à scrapper des données de plusieurs sites majeurs pour offrir des solutions d'emailing et de phoning aux entreprises à la recherche de prospects. Mes responsabilités incluaient la conception, le développement et l'intégration de fonctionnalités. Cette expérience a renforcé mes compétences en programmation et en gestion de projet.
